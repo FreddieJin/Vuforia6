@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="mcdon" size="0.100000 0.133333" />
+    <ImageTarget name="card" size="1.000000 1.333787" />
+    <ImageTarget name="cup" size="1.000000 1.000000" />
+    <ImageTarget name="pt4r21s0" size="1.000000 0.866000" />
+  </Tracking>
+</QCARConfig>
