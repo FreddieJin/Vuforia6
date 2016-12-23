@@ -1,0 +1,11 @@
+Fuse Import Instructions
+
+To quickly import the t-shirts, first open Fuse and navigate to the import files folder (File --> Browse Imported Files). The file location should look something like this on PC: C:\Users\[username]\AppData\Local\Mixamo\Fuse\Data\Domains\Mixamo\Cloths
+
+Unzip the Fuse Zip File.zip found in \Assets\ModelShark Studio Clothes Packs\T-Shirts\. Copy the contents of the \Cloths folder to C:\Users\[username]\AppData\Local\Mixamo\Fuse\Data\Domains\Mixamo\Cloths
+
+In Fuse, click Refresh Database (or close and re-open Fuse). You should now see the new t-shirts.
+
+---
+
+If you want to import the clothes manually, the import pipeline instructions can be found here: https://www.mixamo.com/fuse/import
